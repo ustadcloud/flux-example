@@ -1,0 +1,1 @@
+{"jobID":"bf0f8b04-034a-efb0-d8b9-6ff23d274173","spec":{"type":"policy","cause":{"Message":"","User":"qarham \u003cqarham@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"locked":"true","locked_msg":"","locked_user":"qarham \u003cqarham@gmail.com\u003e"},"remove":{}}}},"result":null}
