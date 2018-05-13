@@ -1,0 +1,1 @@
+{"jobID":"3617eef2-3a8d-0766-2409-40d8486d4104","spec":{"type":"policy","cause":{"Message":"","User":"qarham \u003cqarham@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{},"remove":{"automated":"true"}}}},"result":null}
