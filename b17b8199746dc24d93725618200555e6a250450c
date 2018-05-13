@@ -1,0 +1,1 @@
+{"jobID":"8f490bcd-be36-04af-bd80-9da181818073","spec":{"type":"policy","cause":{"Message":"","User":"qarham \u003cqarham@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
